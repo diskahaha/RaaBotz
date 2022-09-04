@@ -31,8 +31,8 @@ let handler = async(m, { conn }) => {
   return conn.sendButtonDoc(m.chat, `Hay kak @${await m.sender.split('@')[0]}, itu nomor ownerku jangan dispam yah ^_^`, 'Itu Owner Ku Yah Kak Jangan Sungkem Untuk Chat ;3','Credits', '.tqto', m, { quoted: conn.p[id][0],
     contextInfo: { //forwardingScore: 99999, isForwarded: true,
         externalAdReply: { //showAdAttribution: true,
-        	sourceUrl: 'https://instagram.com/inizenscuy/',
-            title: 'Jangan Bully Claraa Dia Kang Kopas <3',
+        	sourceUrl: 'https://instagram.com/𝕭𝖔𝖙 • [A]ndii ∅༢࿔ྀ/',
+            title: '𝕭𝖔𝖙 • [A]ndii ∅༢࿔ྀ',
             body: 'Follow IG Saya Bang Biar Keren •~•',
           thumbnail: await (await fetch(pp)).buffer()
         }
