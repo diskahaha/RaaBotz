@@ -14,7 +14,7 @@ Terimakasih Juga Untuk Kang Banned:
 ➸ @${'0'.split('@')[0]}
 
 ──────────────────────
-• Untuk Mu Yang Pernah Di Samping Ku :v
+• 𝕭𝖔𝖙 • Andii ༢࿔ྀ
 ──────────────────────`
 await conn.sendButtonLoc(m.chat, await conn.resize('https://telegra.ph/file/0e265e801d892a340e877.png', 300, 300),  tqto, `Ini Ucapan Terima Kasih Untuk Orang Nya Telah Berpatisipasi
 
